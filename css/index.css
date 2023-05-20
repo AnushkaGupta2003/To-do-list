@@ -1,0 +1,15 @@
+.page-container{
+    box-shadow: 1px 1px 2px 3px rgba(194, 190, 190, 0.858);
+    border: 2px;
+    max-width:70%;
+    background: hsla(0, 6%, 71%, 0.986);
+}
+body{
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.hide{
+    display: none;
+}
